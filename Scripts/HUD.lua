@@ -215,7 +215,6 @@ hudItems["getRewardsId"]:setCallback(getRewards);
 hudItems["getRewardsLabel"]:setCallback(getRewards);
 -- GET REWARS END
 
-<<<<<<< HEAD
 -- OPEN BACKPACKS START
 
 hudItems["openBackpacksId"] = HUD.new(100, 205, 16099, true)
@@ -306,8 +305,6 @@ local mainBackpack = Container.new(0)
 --Client.showMessage(pairs(mainBackpackItems))
 --Game.talkPrivate(JSON.encode(mainBackpackItems), 'Pedreiro Manuel')
 
-=======
->>>>>>> 264880328f849e6f4b7217c352c6370f9cbafaf9
 --Client.showMessage(JSON.encode(Player.getContainers()))
 
 -- CREATE MODAL START
