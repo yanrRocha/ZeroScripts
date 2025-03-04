@@ -1,0 +1,197 @@
+{
+    "autoRecorder": 3,
+    "disablePlayerWalkthrough": false,
+    "dynamicLure": false,
+    "endLureTryWalkToCenter": false,
+    "forceWalkBlockableTilesAround": 0,
+    "ignoreLureList": [
+    ],
+    "isMapClick": true,
+    "maxLureLeave": 1,
+    "minLureStop": 3,
+    "minLureWalk": 3,
+    "nearLureCreatureDistance": 0,
+    "nearLureCreaturesCount": 0,
+    "nodeDistance": 1,
+    "specialAreas": [
+    ],
+    "specialAreasExtendIfDrunk": false,
+    "startNearestWaypoint": true,
+    "waypoints": [
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 531,
+            "y": 1591,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 542,
+            "y": 1590,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 543,
+            "y": 1577,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 543,
+            "y": 1590,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 531,
+            "y": 1590,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 519,
+            "y": 1590,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 518,
+            "y": 1586,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 518,
+            "y": 1576,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 524,
+            "y": 1571,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 511,
+            "y": 1571,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 498,
+            "y": 1574,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 486,
+            "y": 1574,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 484,
+            "y": 1591,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 479,
+            "y": 1600,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 496,
+            "y": 1601,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 486,
+            "y": 1605,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 486,
+            "y": 1614,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 497,
+            "y": 1616,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 497,
+            "y": 1628,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 497,
+            "y": 1615,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 507,
+            "y": 1615,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 518,
+            "y": 1615,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 518,
+            "y": 1609,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 530,
+            "y": 1609,
+            "z": 6
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 530,
+            "y": 1602,
+            "z": 6
+        }
+    ]
+}
