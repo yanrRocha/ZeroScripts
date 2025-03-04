@@ -262,8 +262,8 @@
                     "isItem": true,
                     "isSecondCondition": 0,
                     "isSecondConditionValue": 80,
-                    "itemId": 237,
-                    "itemSpell": "237",
+                    "itemId": 238,
+                    "itemSpell": "238",
                     "manaCost": 0,
                     "rootedCondition": false,
                     "spellId": -1,
@@ -659,7 +659,6 @@
     },
     "scripting": {
         "enabledScripts": [
-            "HUD.lua"
         ]
     },
     "targeting": {
@@ -668,7 +667,7 @@
                 {
                     "chaseMode": 2,
                     "count": 1,
-                    "distance": 3,
+                    "distance": 7,
                     "enabled": true,
                     "ignoreName": true,
                     "maxHp": 100,

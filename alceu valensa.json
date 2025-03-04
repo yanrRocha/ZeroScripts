@@ -431,7 +431,7 @@
         "list": [
             [
                 {
-                    "creaturesCount": 9,
+                    "creaturesCount": 3,
                     "creaturesCountOption": 1,
                     "delayMs": 0,
                     "dontCastWhenWalking": false,

@@ -84,7 +84,14 @@
         },
         {
             "data": "",
-            "waypointType": 1,
+            "waypointType": 3,
+            "x": 436,
+            "y": 971,
+            "z": 8
+        },
+        {
+            "data": "",
+            "waypointType": 2,
             "x": 433,
             "y": 972,
             "z": 8
