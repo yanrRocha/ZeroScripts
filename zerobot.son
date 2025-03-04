@@ -1,0 +1,10 @@
+{
+    "autoLoadConfig": false,
+    "autoLoadConfigScripts": true,
+    "autoLogin": true,
+    "autoReconnect": false,
+    "email": "yan_fods@hotmail.com",
+    "savePassword": false,
+    "settingsShortcuts": [
+    ]
+}

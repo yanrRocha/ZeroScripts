@@ -1,0 +1,562 @@
+{
+    "arrowKeysDelay": 0,
+    "autoRecorder": 3,
+    "disablePlayerWalkthrough": false,
+    "dynamicLure": false,
+    "enableEndLureDontLeaveIfCreatureHpLessThan": false,
+    "enableMinCreatureHpCheckLureLeave": false,
+    "endLureDontLeaveIfCreatureHpLessThan": 0,
+    "endLureDontLeaveIfCreatureHpLessThanCount": 0,
+    "endLureTryWalkToCenter": true,
+    "forceWalkBlockableTilesAround": 3,
+    "ignoreLureList": [
+    ],
+    "ignoreNonReachableCreatures": true,
+    "isMapClick": true,
+    "maxLureLeave": 0,
+    "minCreatureHpCheckLureLeave": 0,
+    "minCreatureHpCheckLureLeaveCount": 0,
+    "minLureStop": 1,
+    "minLureWalk": 6,
+    "nearLureCreatureDistance": 0,
+    "nearLureCreaturesCount": 0,
+    "nodeDistance": 1,
+    "specialAreas": [
+    ],
+    "specialAreasExtendIfDrunk": false,
+    "startNearestWaypoint": false,
+    "waypoints": [
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1333,
+            "y": 1123,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1333,
+            "y": 1125,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1335,
+            "y": 1128,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1338,
+            "y": 1131,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1339,
+            "y": 1136,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1339,
+            "y": 1138,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1340,
+            "y": 1140,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1342,
+            "y": 1143,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1343,
+            "y": 1147,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1346,
+            "y": 1146,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1349,
+            "y": 1143,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1353,
+            "y": 1142,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1354,
+            "y": 1139,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1360,
+            "y": 1139,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1363,
+            "y": 1139,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1365,
+            "y": 1139,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1367,
+            "y": 1139,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1373,
+            "y": 1137,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1375,
+            "y": 1143,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1382,
+            "y": 1142,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1385,
+            "y": 1138,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1387,
+            "y": 1135,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1388,
+            "y": 1133,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1389,
+            "y": 1131,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1389,
+            "y": 1128,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1389,
+            "y": 1125,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1392,
+            "y": 1121,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1392,
+            "y": 1121,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1388,
+            "y": 1118,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1392,
+            "y": 1113,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1392,
+            "y": 1113,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1394,
+            "y": 1110,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1396,
+            "y": 1108,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1398,
+            "y": 1106,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1402,
+            "y": 1103,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1403,
+            "y": 1103,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1409,
+            "y": 1101,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1412,
+            "y": 1097,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1413,
+            "y": 1093,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1413,
+            "y": 1093,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1413,
+            "y": 1090,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1413,
+            "y": 1088,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1413,
+            "y": 1086,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1411,
+            "y": 1083,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1407,
+            "y": 1081,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1402,
+            "y": 1082,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1399,
+            "y": 1083,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1397,
+            "y": 1082,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1395,
+            "y": 1081,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1392,
+            "y": 1079,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1387,
+            "y": 1080,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1384,
+            "y": 1083,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1379,
+            "y": 1084,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1377,
+            "y": 1089,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1373,
+            "y": 1092,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1371,
+            "y": 1094,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1369,
+            "y": 1095,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1366,
+            "y": 1099,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1365,
+            "y": 1102,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1364,
+            "y": 1104,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1362,
+            "y": 1105,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1357,
+            "y": 1104,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1357,
+            "y": 1104,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1353,
+            "y": 1106,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1351,
+            "y": 1109,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1349,
+            "y": 1110,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1347,
+            "y": 1112,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1347,
+            "y": 1115,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1351,
+            "y": 1119,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1349,
+            "y": 1124,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1349,
+            "y": 1125,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1347,
+            "y": 1125,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 2,
+            "x": 1345,
+            "y": 1124,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1341,
+            "y": 1120,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 1,
+            "x": 1338,
+            "y": 1118,
+            "z": 7
+        },
+        {
+            "data": "",
+            "waypointType": 3,
+            "x": 1332,
+            "y": 1117,
+            "z": 7
+        }
+    ]
+}

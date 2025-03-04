@@ -1,0 +1,1041 @@
+{
+    "alarms": {
+        "alarmsDisabled": false,
+        "alarmsDisabledKey": 0,
+        "alarmsDisabledModifier": 0,
+        "damageTaken": false,
+        "disconnect": false,
+        "enemyOnScreen": false,
+        "enemyOnScreen2": false,
+        "gmDetected": false,
+        "gmPrefixes": [
+            "GM",
+            "GOD",
+            "ADM",
+            "CM"
+        ],
+        "lowHealth": false,
+        "lowHealthMax": 0,
+        "monsterDetected": false,
+        "monsterOnScreen": false,
+        "playerAttack": false,
+        "playerDetected": false,
+        "playerOnScreen": false,
+        "playerStuck": false,
+        "privateMessage": false,
+        "skullOnScreen": false,
+        "skullOnScreen2": false
+    },
+    "autoSio": {
+        "autoSioEnabled": false,
+        "autoSioList": [
+        ],
+        "autoSioMasResCreatures": 2,
+        "autoSioMasResEnabled": false,
+        "autoSioMasResExtendedEnabled": false,
+        "autoSioMasResIgnoreHealth": false,
+        "autoSioMasResIgnoreHealthUtamo": false,
+        "autoSioMasResPercent": 30,
+        "autoSioMode": 0,
+        "autoSioSpellPriority0": 1,
+        "autoSioSpellPriority1": 2,
+        "autoSioSpellPriority2": 3,
+        "autoSioSpellPriority3": 4,
+        "autoSioSpellPriority4": 5,
+        "autoSioSpellPriority5": 6,
+        "autoSioVocEnabled0": false,
+        "autoSioVocEnabled1": false,
+        "autoSioVocEnabled2": false,
+        "autoSioVocEnabled3": false,
+        "autoSioVocGranSioEnabled0": false,
+        "autoSioVocGranSioEnabled1": false,
+        "autoSioVocGranSioEnabled2": false,
+        "autoSioVocGranSioEnabled3": false,
+        "autoSioVocGranSioPercent0": 30,
+        "autoSioVocGranSioPercent1": 30,
+        "autoSioVocGranSioPercent2": 30,
+        "autoSioVocGranSioPercent3": 30,
+        "autoSioVocMagicShieldEnabled0": false,
+        "autoSioVocMagicShieldEnabled1": false,
+        "autoSioVocMagicShieldEnabled2": false,
+        "autoSioVocMagicShieldEnabled3": false,
+        "autoSioVocMagicShieldPercent0": 30,
+        "autoSioVocMagicShieldPercent1": 30,
+        "autoSioVocMagicShieldPercent2": 30,
+        "autoSioVocMagicShieldPercent3": 30,
+        "autoSioVocPriority0": 4,
+        "autoSioVocPriority1": 3,
+        "autoSioVocPriority2": 2,
+        "autoSioVocPriority3": 1,
+        "autoSioVocSioEnabled0": false,
+        "autoSioVocSioEnabled1": false,
+        "autoSioVocSioEnabled2": false,
+        "autoSioVocSioEnabled3": false,
+        "autoSioVocSioPercent0": 70,
+        "autoSioVocSioPercent1": 70,
+        "autoSioVocSioPercent2": 70,
+        "autoSioVocSioPercent3": 70,
+        "autoSioVocUhEnabled0": false,
+        "autoSioVocUhEnabled1": false,
+        "autoSioVocUhEnabled2": false,
+        "autoSioVocUhEnabled3": false,
+        "autoSioVocUhPercent0": 30,
+        "autoSioVocUhPercent1": 30,
+        "autoSioVocUhPercent2": 30,
+        "autoSioVocUhPercent3": 30,
+        "autoSioVocUtamoEnabled0": false,
+        "autoSioVocUtamoEnabled1": false,
+        "autoSioVocUtamoEnabled2": false,
+        "autoSioVocUtamoEnabled3": false,
+        "autoSioVocUtamoPercent0": 30,
+        "autoSioVocUtamoPercent1": 30,
+        "autoSioVocUtamoPercent2": 30,
+        "autoSioVocUtamoPercent3": 30,
+        "autoSioVocVocation0": 4,
+        "autoSioVocVocation1": 3,
+        "autoSioVocVocation2": 1,
+        "autoSioVocVocation3": 2
+    },
+    "caveBot": {
+        "debugHudKey": 0,
+        "debugHudModifier": 0,
+        "key": 52,
+        "modifier": 1,
+        "recorderKey": 0,
+        "recorderModifier": 0
+    },
+    "cureConditions": {
+        "conditions": [
+            {
+                "damage": 6,
+                "enabled": false,
+                "id": 1,
+                "mana": 30
+            },
+            {
+                "damage": 10,
+                "enabled": false,
+                "id": 2,
+                "mana": 40
+            },
+            {
+                "damage": 5,
+                "enabled": false,
+                "id": 3,
+                "mana": 30
+            },
+            {
+                "damage": 20,
+                "enabled": false,
+                "id": 4,
+                "mana": 30
+            },
+            {
+                "damage": 15,
+                "enabled": false,
+                "id": 5,
+                "mana": 30
+            },
+            {
+                "damage": 0,
+                "enabled": false,
+                "id": 6,
+                "mana": 60,
+                "spellWords": "utani hur"
+            }
+        ]
+    },
+    "engine": {
+        "actionsPerSecond": 20,
+        "allowLookClipboard": false,
+        "autoLootDelay": 200,
+        "boostWhenMinimized": false,
+        "botButtonVisible": true,
+        "botDisabled": false,
+        "botDisabledKey": 0,
+        "botDisabledModifier": 0,
+        "dashTimerDelay": 70,
+        "disableScriptsKey": 0,
+        "disableScriptsModifier": 0,
+        "disabledMagicEffects": false,
+        "disabledScripts": false,
+        "equipObjectDelay": 120,
+        "exerciseDelay": 5000,
+        "globalDelays": false,
+        "hideZeroButtonKey": 0,
+        "hideZeroButtonModifier": 0,
+        "moveItemDelay": 120,
+        "notificationsDisabled": false,
+        "partyHuntAutoCalculate": false,
+        "processHealFriendBefore": false,
+        "spellItemsPrediction": false,
+        "toggleBotButtonKey": 0,
+        "toggleBotButtonModifier": 0,
+        "useItemDelay": 50
+    },
+    "equipment": {
+        "equipmentEnabled": false,
+        "equipmentKey": 0,
+        "equipmentList": [
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ],
+        "equipmentModifier": 0,
+        "profileKeys": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileModifiers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileNames": [
+            "Profile 1",
+            "Profile 2",
+            "Profile 3",
+            "Profile 4",
+            "Profile 5",
+            "Profile 6",
+            "Profile 7",
+            "Profile 8",
+            "Profile 9",
+            "Profile 10"
+        ],
+        "profileSelected": 0
+    },
+    "healing": {
+        "healingEnabled": true,
+        "healingKey": 51,
+        "healingList": [
+            [
+                {
+                    "dontCastTargetMonster": false,
+                    "drunkCondition": false,
+                    "enabled": true,
+                    "fearedCondition": false,
+                    "isCondition": 1,
+                    "isConditionValue": "0",
+                    "isItem": true,
+                    "isSecondCondition": 0,
+                    "isSecondConditionValue": 70,
+                    "itemId": 239,
+                    "itemSpell": "239",
+                    "manaCost": 0,
+                    "rootedCondition": false,
+                    "spellId": -1,
+                    "whenCondition": 2,
+                    "whenConditionAnd": true,
+                    "whenSecondCondition": 2
+                },
+                {
+                    "dontCastTargetMonster": false,
+                    "drunkCondition": false,
+                    "enabled": true,
+                    "fearedCondition": false,
+                    "isCondition": 1,
+                    "isConditionValue": "0",
+                    "isItem": true,
+                    "isSecondCondition": 0,
+                    "isSecondConditionValue": 70,
+                    "itemId": 268,
+                    "itemSpell": "268",
+                    "manaCost": 0,
+                    "rootedCondition": false,
+                    "spellId": -1,
+                    "whenCondition": 3,
+                    "whenConditionAnd": true,
+                    "whenSecondCondition": 3
+                }
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ],
+        "healingModifier": 0,
+        "profileKeys": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileModifiers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileNames": [
+            "Profile 1",
+            "Profile 2",
+            "Profile 3",
+            "Profile 4",
+            "Profile 5",
+            "Profile 6",
+            "Profile 7",
+            "Profile 8",
+            "Profile 9",
+            "Profile 10"
+        ],
+        "profileSelected": 0
+    },
+    "holdConditions": {
+        "cancelMagicShieldEnabled": false,
+        "cancelMagicShieldHealth": 70,
+        "cancelMagicShieldKey": 0,
+        "cancelMagicShieldModifier": 0,
+        "cancelMagicShieldWaitVitaCDEnabled": false,
+        "dontCastPzEnabled": true,
+        "hasteEnabled": true,
+        "hasteMana": 60,
+        "hasteSpellWorlds": "utani hur",
+        "hasteWaitSharpshooter": true,
+        "invisibilityEnabled": false,
+        "invisibilityMana": 440,
+        "magicShieldEnabled": false,
+        "magicShieldHealth": 30,
+        "magicShieldKey": 0,
+        "magicShieldModifier": 0,
+        "magicShieldPotionEnabled": false,
+        "magicShieldPotionFearEnabled": false,
+        "magicShieldPotionHealth": 30,
+        "magicShieldPotionKey": 0,
+        "magicShieldPotionModifier": 0,
+        "magicShieldPotionVitaCDEnabled": false,
+        "recoveryEnabled": false,
+        "recoveryMana": 75,
+        "selectedRecoverySpellIndex": 0
+    },
+    "hud": {
+        "botModules": true,
+        "guildEnemies": false,
+        "horizontalAlignment": 0,
+        "verticalAlignment": 0,
+        "vocations": false
+    },
+    "magicShooter": {
+        "enabled": true,
+        "key": 50,
+        "list": [
+            [
+                {
+                    "creaturesCount": 1,
+                    "creaturesCountMore": true,
+                    "delayMs": 3000,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 0,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "ancient scarab"
+                    ],
+                    "param": "ancient scarab",
+                    "prioritizeMomentum": false,
+                    "range": 2,
+                    "runeId": 3155,
+                    "spellCondition": 0,
+                    "spellType": 4,
+                    "spellWords": "exexta red",
+                    "targetRequired": true
+                },
+                {
+                    "creaturesCount": 1,
+                    "creaturesCountMore": true,
+                    "delayMs": 3000,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 0,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "necromancer",
+                        "worm priestess",
+                        "minotaur hunter",
+                        "lizard legionnaire",
+                        "lizard dragon priest"
+                    ],
+                    "param": "necromancer, worm priestess, minotaur hunter, lizard legionnaire, lizard dragon priest",
+                    "prioritizeMomentum": false,
+                    "range": 4,
+                    "runeId": 3155,
+                    "spellCondition": 0,
+                    "spellType": 3,
+                    "spellWords": "exeta amp res",
+                    "targetRequired": true
+                },
+                {
+                    "creaturesCount": 3,
+                    "creaturesCountMore": true,
+                    "delayMs": 0,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 50,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "monster names"
+                    ],
+                    "param": "monster names",
+                    "prioritizeMomentum": false,
+                    "range": 1,
+                    "runeId": 3155,
+                    "spellCondition": 1,
+                    "spellType": 3,
+                    "spellWords": "utito tempo",
+                    "targetRequired": true
+                },
+                {
+                    "creaturesCount": 2,
+                    "creaturesCountMore": true,
+                    "delayMs": 0,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 0,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "monster names"
+                    ],
+                    "param": "monster names",
+                    "prioritizeMomentum": false,
+                    "range": 2,
+                    "runeId": 3155,
+                    "spellCondition": 1,
+                    "spellType": 4,
+                    "spellWords": "exori gran",
+                    "targetRequired": true
+                },
+                {
+                    "creaturesCount": 2,
+                    "creaturesCountMore": true,
+                    "delayMs": 0,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 0,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "exori"
+                    ],
+                    "param": "exori",
+                    "prioritizeMomentum": false,
+                    "range": 2,
+                    "runeId": 3155,
+                    "spellCondition": 1,
+                    "spellType": 4,
+                    "spellWords": "exori",
+                    "targetRequired": true
+                },
+                {
+                    "creaturesCount": 2,
+                    "creaturesCountMore": true,
+                    "delayMs": 0,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 0,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "monster names"
+                    ],
+                    "param": "monster names",
+                    "prioritizeMomentum": false,
+                    "range": 9,
+                    "runeId": 3155,
+                    "spellCondition": 1,
+                    "spellType": 4,
+                    "spellWords": "exori min",
+                    "targetRequired": true
+                },
+                {
+                    "creaturesCount": 1,
+                    "creaturesCountMore": true,
+                    "delayMs": 0,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 0,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "monster names"
+                    ],
+                    "param": "monster names",
+                    "prioritizeMomentum": false,
+                    "range": 5,
+                    "runeId": 3155,
+                    "spellCondition": 1,
+                    "spellType": 0,
+                    "spellWords": "exori hur",
+                    "targetRequired": false
+                },
+                {
+                    "creaturesCount": 1,
+                    "creaturesCountMore": true,
+                    "delayMs": 0,
+                    "dontCastWhenWalking": false,
+                    "dontCastWhenWalkingDelay": 1000,
+                    "enabled": true,
+                    "health": 0,
+                    "ignoreType": 0,
+                    "ignoredNames": [
+                    ],
+                    "mana": 0,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "momentumCompensationDelay": 1500,
+                    "monsterNames": [
+                        "monster names"
+                    ],
+                    "param": "monster names",
+                    "prioritizeMomentum": false,
+                    "range": 1,
+                    "runeId": 3155,
+                    "spellCondition": 1,
+                    "spellType": 0,
+                    "spellWords": "exori ico",
+                    "targetRequired": true
+                }
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ],
+        "modifier": 1,
+        "profileKeys": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileModifiers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileNames": [
+            "Profile 1",
+            "Profile 2",
+            "Profile 3",
+            "Profile 4",
+            "Profile 5",
+            "Profile 6",
+            "Profile 7",
+            "Profile 8",
+            "Profile 9",
+            "Profile 10"
+        ],
+        "profileSelected": 0,
+        "profileSettings": [
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            },
+            {
+                "castWaveSpellBestSideEnabled": false,
+                "dontCastWhenWalking": false,
+                "dontCastWhenWalkingDelay": 1000,
+                "dontTurnWaveSpellEnabled": false,
+                "forceAttackSpellOrder": false,
+                "pvpSafe1Enabled": false,
+                "pvpSafe2Enabled": false,
+                "pvpSafe3Enabled": false,
+                "useOldAreaRuneMethod": true
+            }
+        ]
+    },
+    "overview": {
+        "customAddon1": false,
+        "customAddon2": false,
+        "customLookType": 130,
+        "customMountId": 5,
+        "outfitChangerEnabled": false
+    },
+    "scripting": {
+        "enabledScripts": [
+            "autoloot.lua"
+        ]
+    },
+    "targeting": {
+        "list": [
+            [
+                {
+                    "chaseMode": 0,
+                    "count": 1,
+                    "distance": 0,
+                    "enabled": true,
+                    "ignoreName": true,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "name": "all creatures",
+                    "priority": 0,
+                    "proximity": 6
+                },
+                {
+                    "chaseMode": 0,
+                    "count": 1,
+                    "distance": 0,
+                    "enabled": true,
+                    "ignoreName": false,
+                    "maxHp": 100,
+                    "minHp": 0,
+                    "name": "minotaur cult prophet",
+                    "priority": 2,
+                    "proximity": 6
+                }
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ],
+            [
+            ]
+        ],
+        "profileKeys": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileModifiers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "profileNames": [
+            "Profile 1",
+            "Profile 2",
+            "Profile 3",
+            "Profile 4",
+            "Profile 5",
+            "Profile 6",
+            "Profile 7",
+            "Profile 8",
+            "Profile 9",
+            "Profile 10"
+        ],
+        "profileSettings": [
+            {
+                "healthPriority": 1,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": true
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            },
+            {
+                "healthPriority": 0,
+                "prioritizeHighHealthMaxCreatures": 9,
+                "prioritizeHighHealthMinCreatures": 1,
+                "prioritizeLowHealthMaxCreatures": 40,
+                "prioritizeLowHealthMinCreatures": 10,
+                "smartAttack": false,
+                "smartAttackSafeMode": false
+            }
+        ],
+        "targetingEnabled": true,
+        "targetingKey": 49,
+        "targetingModifier": 1,
+        "targetingProfile": 0
+    },
+    "timer": {
+        "timerEnabled": false,
+        "timerKey": 0,
+        "timerList": [
+        ],
+        "timerModifier": 0
+    },
+    "tools": {
+        "antiAfk": false,
+        "antiPush": false,
+        "antiPushFirstId": 3031,
+        "antiPushKey": 0,
+        "antiPushModifier": 0,
+        "antiPushSecondId": 3492,
+        "autoLootKey": 0,
+        "autoLootModifier": 0,
+        "autoMount": true,
+        "autoMountKey": 0,
+        "autoMountModifier": 0,
+        "backpackAutoResize": true,
+        "changeCoins": true,
+        "dash": false,
+        "dashChat": false,
+        "dashKey": 0,
+        "dashModifier": 0,
+        "dashWASDMode": true,
+        "disableChangeCoinsIfAntiPushEnabled": false,
+        "disableEquipmentMightRing": false,
+        "disableEquipmentSSA": false,
+        "dummyCustomIds": [
+            49621,
+            49622,
+            49623,
+            49624,
+            49698,
+            49699
+        ],
+        "dummyCustomItem": false,
+        "dummyCustomItemId": 0,
+        "dummyItem": false,
+        "dummyItemIndex": 0,
+        "eatFood": false,
+        "eatFoodIds": [
+        ],
+        "exerciseOutOfPz": false,
+        "fastReconnectEnabled": false,
+        "holdAttackKey": 0,
+        "holdAttackModifier": 0,
+        "holdTarget": false,
+        "mightRingHotkeyMode": false,
+        "mightRingItem": false,
+        "mightRingKey": 0,
+        "mightRingModifier": 0,
+        "quiverCustomEnabled": false,
+        "quiverCustomIds": [
+            0
+        ],
+        "quiverMaxRefill": 400,
+        "quiverMinRefill": 100,
+        "quiverRefill": false,
+        "quiverRefillIndex": 0,
+        "reconnectEnabled": false,
+        "reconnectKey": 0,
+        "reconnectModifier": 0,
+        "runeMax": false,
+        "runeMaxId": 3155,
+        "runeMaxKey": 0,
+        "runeMaxModifier": 0,
+        "ssaHotkeyMode": false,
+        "ssaItem": false,
+        "ssaKey": 0,
+        "ssaModifier": 0,
+        "wallTimerIds": [
+        ],
+        "wallTimers": false,
+        "xLog": false
+    }
+}
